@@ -4,5 +4,6 @@ The tutorials include:
 
 1. [Hello World](01_helloWorld.ipynb)
 2. [Variables & statistics](02_varStats.ipynb)
-3. [Graph & Regression]()
+3. [Graph & Regression](03_plotRegression.ipynb)
+4. [Functions & Conditional](04_functionConditions.ipynb)
 

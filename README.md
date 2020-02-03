@@ -6,4 +6,6 @@ The tutorials include:
 2. [Variables & statistics](02_varStats.ipynb)
 3. [Graph & Regression](03_plotRegression.ipynb)
 4. [Functions & Conditional](04_functionConditions.ipynb)
+5. [Forward and Futures Price](05_forwardFuturesPrice.ipynb)
+
 

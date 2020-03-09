@@ -11,7 +11,7 @@ The tutorials include:
 4. [Functions & Conditional](04_functionConditions.ipynb)
 5. [Forward and Futures Price](05_forwardFuturesPrice.ipynb)
 6. [Binomial Tree model](06_binomial.ipynb)
-7. 
+7. [BSM model](07_bsm.ipynb)
 
 ## CHANGE-LOG
 

@@ -6,12 +6,23 @@ This is a tutorial about Python, that we will cover around 18 weeks in course CM
 The tutorials include:
 
 1. [Hello World](01_helloWorld.ipynb)
-2. [Variables & statistics](02_varStats.ipynb)
-3. [Graph & Regression](03_plotRegression.ipynb)
-4. [Functions & Conditional](04_functionConditions.ipynb)
-5. [Forward and Futures Price](05_forwardFuturesPrice.ipynb)
-6. [Binomial Tree model](06_binomial.ipynb)
-7. [BSM model](07_bsm.ipynb)
+1. [Variables & statistics](02_varStats.ipynb)
+1. [Graph & Regression](03_plotRegression.ipynb)
+1. [Functions & Conditional](04_functionConditions.ipynb)
+1. [Forward and Futures Price](05_forwardFuturesPrice.ipynb)
+1. [Binomial Tree model](06_binomial.ipynb)
+1. [Distribution of stock price and returns](07_priceReturnDist.ipynb)
+1. [BSM model](08_bsm.ipynb)
+
+## Others
+### More reading
+
+If you love this kind of tutorial, you may want to check other repositories below:
+
+- [py4fi](https://github.com/yhilpisch/py4fi)
+
+### Other userful materials
+- [Yahoo Finance, e.g., Microsoft (MSFT)](https://finance.yahoo.com/quote/MSFT/options?p=MSFT)
 
 ## CHANGE-LOG
 
@@ -29,3 +40,4 @@ MIT
 
 ## CONTACT
 [buidiengiau@gmail.com](mailto:buidiengiau@gmail.com)
+

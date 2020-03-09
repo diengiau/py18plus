@@ -13,6 +13,8 @@ The tutorials include:
 1. [Binomial Tree model](06_binomial.ipynb)
 1. [Distribution of stock price and returns](07_priceReturnDist.ipynb)
 1. [BSM model](08_bsm.ipynb)
+1. [Stochastic (Price) Process](09_stochasticSimu.ipynb)
+1. [Greeks (update soon)](10_greeks.ipynb)
 
 ## Others
 ### More reading

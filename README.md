@@ -26,18 +26,20 @@ If you love this kind of tutorial, you may want to check other repositories belo
 ### Other userful materials
 - [Yahoo Finance, e.g., Microsoft (MSFT) options price](https://finance.yahoo.com/quote/MSFT/options?p=MSFT)
 
-## CHANGE-LOG
 
+----
+
+## CHANGE LOGS
+
+- 2020/3/10: add greeks
 - 2020/3/9: add BSM model & stock return distribution
 - 2020/3/8: add binomial tree model
 
 
 ## TODO
 
-- stochastic processes
-- Greek calculation
-- how to build a module with related functions
 - quantile & VaR (value-at-risk)
+- how to build a module with related functions
 
 ## LICENSE
 MIT

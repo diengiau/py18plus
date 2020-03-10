@@ -1,9 +1,9 @@
 
 ## Introduction
 
-This is a tutorial about Python, that we will cover around 18 weeks in course CM526 at YZU, but you can refer to it and learn more in the future (18 week + more).
+This is a tutorial about Python, that we will cover around 18 weeks in the course CM526 at YZU, but you can refer to it and learn more in the future (i.e., 18 week + more to learn :)).
 
-The tutorials include:
+This tutorial includes:
 
 1. [Hello World](01_helloWorld.ipynb)
 1. [Variables & statistics](02_varStats.ipynb)
@@ -14,7 +14,8 @@ The tutorials include:
 1. [Distribution of stock price and returns](07_priceReturnDist.ipynb)
 1. [BSM model](08_bsm.ipynb)
 1. [Stochastic (Price) Process](09_stochasticSimu.ipynb)
-1. [Greeks (update soon)](10_greeks.ipynb)
+1. [Greeks](10_greeks.ipynb)
+1. (update soon)
 
 ## Others
 ### More reading

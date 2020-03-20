@@ -15,6 +15,7 @@ This tutorial includes:
 1. [BSM model](08_bsm.ipynb)
 1. [Stochastic (Price) Process](09_stochasticSimu.ipynb)
 1. [Greeks](10_greeks.ipynb)
+1. Execucomp (update soon)
 1. (update soon)
 
 ## Others
@@ -40,10 +41,11 @@ If you love this kind of tutorial, you may want to check other repositories belo
 ## TODO
 
 - quantile & VaR (value-at-risk)
+- introduce CEO option data: `execucomp` database
 - how to build a module with related functions
 
 ## LICENSE
-MIT
+[MIT](https://wfxr.mit-license.org/2017)
 
 ## CONTACT
 [buidiengiau@gmail.com](mailto:buidiengiau@gmail.com)

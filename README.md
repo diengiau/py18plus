@@ -33,6 +33,7 @@ If you love this kind of tutorial, you may want to check other repositories belo
 
 ## CHANGE LOGS
 
+- 2020/3/26: add function to get bond yield, using `Newton` optimization
 - 2020/3/10: add greeks
 - 2020/3/9: add BSM model & stock return distribution
 - 2020/3/8: add binomial tree model

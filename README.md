@@ -15,7 +15,7 @@ This tutorial includes:
 1. [BSM model](08_bsm.ipynb)
 1. [Stochastic (Price) Process](09_stochasticSimu.ipynb)
 1. [Greeks](10_greeks.ipynb)
-1. Execucomp (update soon)
+1. [Execucomp](11_execucomp.ipynb)
 1. (update soon)
 
 ## Others

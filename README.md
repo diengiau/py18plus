@@ -1,7 +1,7 @@
 
 ## Introduction
 
-This is a tutorial about Python, that we will cover around 18 weeks in the course CM526 at YZU, but you can refer to it and learn more in the future (i.e., 18 week + more to learn :)).
+This is a Python🐍 tutorial, that we will cover around 18 weeks in the course CM526, but you can refer to it and learn more in the future (i.e., 18 weeks + more to learn 😂🤣).
 
 This tutorial includes:
 
@@ -16,7 +16,7 @@ This tutorial includes:
 1. [Stochastic (Price) Process](09_stochasticSimu.ipynb)
 1. [Greeks](10_greeks.ipynb)
 1. [Execucomp](11_execucomp.ipynb)
-1. (update soon)
+1. Quantile & VaR (update soon)
 
 ## Others
 ### More reading
@@ -26,7 +26,7 @@ If you love this kind of tutorial, you may want to check other repositories belo
 - [py4fi](https://github.com/yhilpisch/py4fi)
 
 ### Other userful materials
-- [diengiau.github.io](https://diengiau.github.io)
+- [🏡](https://diengiau.github.io)
 - [Yahoo Finance, e.g., Microsoft (MSFT) options price](https://finance.yahoo.com/quote/MSFT/options?p=MSFT)
 
 
@@ -34,6 +34,7 @@ If you love this kind of tutorial, you may want to check other repositories belo
 
 ## CHANGE LOGS
 
+- 2020/4/12: add `execucomp`
 - 2020/3/26: add function to get bond yield, using `Newton` optimization
 - 2020/3/10: add greeks
 - 2020/3/9: add BSM model & stock return distribution
@@ -43,8 +44,8 @@ If you love this kind of tutorial, you may want to check other repositories belo
 ## TODO
 
 - quantile & VaR (value-at-risk)
-- introduce CEO option data: `execucomp` database
-- how to build a module with related functions
+- git & github
+- how to build your own module with related functions
 
 ## LICENSE
 [MIT](https://wfxr.mit-license.org/2017)

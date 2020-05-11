@@ -16,7 +16,7 @@ This tutorial includes:
 1. [Stochastic (Price) Process](09_stochasticSimu.ipynb)
 1. [Greeks](10_greeks.ipynb)
 1. [Execucomp](11_execucomp.ipynb)
-1. Quantile & VaR (update soon)
+1. [Quantile & VaR](12_VaR.ipynb)
 
 ## Others
 ### More reading
@@ -34,6 +34,7 @@ If you love this kind of tutorial, you may want to check other repositories belo
 
 ## CHANGE LOGS
 
+- 2020/5/11: add [`VaR`](12_VaR.ipynb)
 - 2020/5/11: add market return distribution in [note 07](07_priceReturnDist.ipynb) + add simulation in note 09b
 - 2020/4/12: add `execucomp`
 - 2020/3/26: add function to get bond yield, using `Newton` optimization
@@ -44,7 +45,7 @@ If you love this kind of tutorial, you may want to check other repositories belo
 
 ## TODO
 
-- quantile & VaR (value-at-risk)
+- ~~quantile & VaR (value-at-risk)~~
 - git & github
 - how to build your own module with related functions
 

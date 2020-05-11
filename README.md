@@ -34,6 +34,7 @@ If you love this kind of tutorial, you may want to check other repositories belo
 
 ## CHANGE LOGS
 
+- 2020/5/11: add market return distribution in [note 07](07_priceReturnDist.ipynb) + add simulation in note 09b
 - 2020/4/12: add `execucomp`
 - 2020/3/26: add function to get bond yield, using `Newton` optimization
 - 2020/3/10: add greeks

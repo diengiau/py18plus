@@ -34,6 +34,7 @@ If you love this kind of tutorial, you may want to check other repositories belo
 
 ## CHANGE LOGS
 
+- 2020/5/27: add [implied volatility](13_impliedVol.ipynb)
 - 2020/5/11: add [`VaR`](12_VaR.ipynb)
 - 2020/5/11: add market return distribution in [note 07](07_priceReturnDist.ipynb) + add simulation in note 09b
 - 2020/4/12: add `execucomp`
@@ -47,6 +48,7 @@ If you love this kind of tutorial, you may want to check other repositories belo
 
 - ~~quantile & VaR (value-at-risk)~~
 - git & github
+- volatility smile
 - how to build your own module with related functions
 
 ## LICENSE

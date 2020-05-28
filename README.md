@@ -17,7 +17,7 @@ This tutorial includes:
 1. [Greeks](10_greeks.ipynb)
 1. [Execucomp](11_execucomp.ipynb)
 1. [Quantile & VaR](12_VaR.ipynb)
-1. [Implied Volatility](13_13_impliedVol.ipynb)
+1. [Implied Volatility](13_impliedVol.ipynb)
 
 ## Others
 ### More reading
